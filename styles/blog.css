@@ -1,0 +1,14 @@
+div{
+    text-align: center;
+    background-color: rgb(0, 229, 153);
+    border: 8px solid blueviolet;
+    padding: 10px 15px 10px 15px;
+    margin: 40px 80px 0px;
+    font-weight: 500;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h3{
+   text-decoration: underline;
+   height:10px;
+}
